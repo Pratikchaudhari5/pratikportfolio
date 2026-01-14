@@ -240,6 +240,11 @@ export const projectsData = [
     ],
     links: [
       {
+    type: "website",
+    href: "http://ridebee-angular-app.s3-website.ap-south-1.amazonaws.com/login",
+    icon: "external", // or "link", depending on your icon system
+  },
+      {
         type: "Github",
         href: "https://github.com/Pratikchaudhari5/RideBee",
         icon: "github",
@@ -279,8 +284,8 @@ export const projectsData = [
         icon: "github",
       },
     ],
-    image: "/hairandbeauty.png",
-    images: ["/hairandbeauty.png"],
+    image: "/hair.png",
+    images: ["/hair.png"],
     video: "",
   },
   {
@@ -307,6 +312,11 @@ export const projectsData = [
       { name: "MongoDB", icon: "logos:mongodb-icon" },
     ],
     links: [
+      {
+    type: "website",
+    href: "https://real-estate-full-stack-project.vercel.app/",
+    icon: "external", // or "link", depending on your icon system
+  },
       {
         type: "Github",
         href: "https://github.com/Pratikchaudhari5/Real-Estate-FullStack-Project",
