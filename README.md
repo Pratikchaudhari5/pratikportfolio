@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
 
 # Features
@@ -35,3 +36,6 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
    ```
 
 5. Open the [Config file](./src/data/resume.tsx) and make changes
+=======
+# pratikportfolio
+>>>>>>> bbfae5d9ea72b6a9f8ecc8829ee426c4e0325f6a
