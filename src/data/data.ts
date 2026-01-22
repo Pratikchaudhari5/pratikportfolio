@@ -134,7 +134,7 @@ export const skillsData = [
 export const navbarData = [
   { href: "/", icon: HomeIcon, label: "Home" },
   {
-    href: "https://drive.google.com/file/d/1PF9nto8uXBVKzatgEn1Y0njiYQDtYfJR/view?usp=sharing",
+    href: "https://drive.google.com/file/d/1aTejHReLgjuiop_cJfnkmWZ_Ahp1jVJX/view?usp=sharing",
     icon: NotebookIcon,
     label: "Resume",
   },
